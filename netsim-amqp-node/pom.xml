@@ -34,7 +34,7 @@
   <dependency>
 	<groupId>org.springframework.amqp</groupId>
 	<artifactId>spring-rabbit</artifactId>
-	<version>1.2.0.RELEASE</version>
+	<version>3.1.8</version>
 </dependency>
 <dependency>
     <groupId>com.fasterxml.jackson.core</groupId>
@@ -57,7 +57,7 @@
   <dependency>
  <groupId>org.springframework.amqp</groupId>
  <artifactId>spring-amqp</artifactId>
- <version>1.2.0.RELEASE</version>
+ <version>3.1.8</version>
 </dependency>
 
   <dependency>
